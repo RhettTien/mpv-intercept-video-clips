@@ -16,6 +16,8 @@ When starting the script, try to start the script at a place where there is dial
 
 **NOTE**
 
+*This script must rely on the subtitle file to work properly.*
+
 *The computer must have the `ffmpeg` program installed and environment variables configured.*
 
 *Subtitle file type must be in `srt` format.*
